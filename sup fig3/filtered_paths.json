@@ -1,0 +1,2023 @@
+{
+  "threshold": 15,
+  "records": [
+    {
+      "pathway_id": 1,
+      "filename": "251034_001_Vglut1",
+      "pattern": 1,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 164.69
+        },
+        {
+          "region": "EP",
+          "length": 744.08
+        },
+        {
+          "region": "PIR",
+          "length": 17.95
+        },
+        {
+          "region": "EP",
+          "length": 4.07
+        },
+        {
+          "region": "PIR",
+          "length": 656.54
+        },
+        {
+          "region": "ec",
+          "length": 16.12
+        },
+        {
+          "region": "EP",
+          "length": 1770.93
+        },
+        {
+          "region": "AI",
+          "length": 178.74
+        },
+        {
+          "region": "ORB",
+          "length": 2165.21
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 164.69
+        },
+        {
+          "region": "EP",
+          "length": 744.08
+        },
+        {
+          "region": "PIR",
+          "length": 674.49
+        },
+        {
+          "region": "ec",
+          "length": 16.12
+        },
+        {
+          "region": "EP",
+          "length": 1770.93
+        },
+        {
+          "region": "AI",
+          "length": 178.74
+        },
+        {
+          "region": "ORB",
+          "length": 2165.21
+        }
+      ]
+    },
+    {
+      "pathway_id": 2,
+      "filename": "251034_003_Vglut1",
+      "pattern": 1,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 424.13
+        },
+        {
+          "region": "ec",
+          "length": 147.35
+        },
+        {
+          "region": "EP",
+          "length": 754.54
+        },
+        {
+          "region": "ec",
+          "length": 10.44
+        },
+        {
+          "region": "EP",
+          "length": 18.38
+        },
+        {
+          "region": "ec",
+          "length": 29.77
+        },
+        {
+          "region": "CP",
+          "length": 10.81
+        },
+        {
+          "region": "ec",
+          "length": 16.75
+        },
+        {
+          "region": "CP",
+          "length": 10.69
+        },
+        {
+          "region": "ec",
+          "length": 10.52
+        },
+        {
+          "region": "CP",
+          "length": 873.75
+        },
+        {
+          "region": "ec",
+          "length": 8.6
+        },
+        {
+          "region": "CP",
+          "length": 13.15
+        },
+        {
+          "region": "ec",
+          "length": 2.18
+        },
+        {
+          "region": "CP",
+          "length": 12.07
+        },
+        {
+          "region": "ec",
+          "length": 5.28
+        },
+        {
+          "region": "CP",
+          "length": 875.21
+        },
+        {
+          "region": "EP",
+          "length": 647.02
+        },
+        {
+          "region": "ORB",
+          "length": 4.7
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 424.13
+        },
+        {
+          "region": "ec",
+          "length": 147.35
+        },
+        {
+          "region": "EP",
+          "length": 772.92
+        },
+        {
+          "region": "ec",
+          "length": 46.519999999999996
+        },
+        {
+          "region": "CP",
+          "length": 1748.96
+        },
+        {
+          "region": "EP",
+          "length": 647.02
+        },
+        {
+          "region": "ORB",
+          "length": 4.7
+        }
+      ]
+    },
+    {
+      "pathway_id": 3,
+      "filename": "251034_003_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 680.74
+        },
+        {
+          "region": "EP",
+          "length": 998.03
+        },
+        {
+          "region": "FS",
+          "length": 349.36
+        },
+        {
+          "region": "ACB",
+          "length": 1104.57
+        },
+        {
+          "region": "CP",
+          "length": 1344.58
+        },
+        {
+          "region": "ORB",
+          "length": 2505.88
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 680.74
+        },
+        {
+          "region": "EP",
+          "length": 998.03
+        },
+        {
+          "region": "FS",
+          "length": 349.36
+        },
+        {
+          "region": "ACB",
+          "length": 1104.57
+        },
+        {
+          "region": "CP",
+          "length": 1344.58
+        },
+        {
+          "region": "ORB",
+          "length": 2505.88
+        }
+      ]
+    },
+    {
+      "pathway_id": 4,
+      "filename": "251034_004_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 409.45
+        },
+        {
+          "region": "EP",
+          "length": 494.32
+        },
+        {
+          "region": "PIR",
+          "length": 11.8
+        },
+        {
+          "region": "EP",
+          "length": 9.88
+        },
+        {
+          "region": "PIR",
+          "length": 8.8
+        },
+        {
+          "region": "EP",
+          "length": 26.24
+        },
+        {
+          "region": "PIR",
+          "length": 3.35
+        },
+        {
+          "region": "EP",
+          "length": 12.57
+        },
+        {
+          "region": "PIR",
+          "length": 2.07
+        },
+        {
+          "region": "EP",
+          "length": 389.4
+        },
+        {
+          "region": "PAA",
+          "length": 262.19
+        },
+        {
+          "region": "COA",
+          "length": 300.1
+        },
+        {
+          "region": "OT",
+          "length": 1653.33
+        },
+        {
+          "region": "SI",
+          "length": 457.41
+        },
+        {
+          "region": "EP",
+          "length": 644.59
+        },
+        {
+          "region": "CP",
+          "length": 85.21
+        },
+        {
+          "region": "ec",
+          "length": 102.66
+        },
+        {
+          "region": "ORB",
+          "length": 242.51
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 409.45
+        },
+        {
+          "region": "EP",
+          "length": 909.9599999999999
+        },
+        {
+          "region": "PAA",
+          "length": 262.19
+        },
+        {
+          "region": "COA",
+          "length": 300.1
+        },
+        {
+          "region": "OT",
+          "length": 1653.33
+        },
+        {
+          "region": "SI",
+          "length": 457.41
+        },
+        {
+          "region": "EP",
+          "length": 644.59
+        },
+        {
+          "region": "CP",
+          "length": 85.21
+        },
+        {
+          "region": "ec",
+          "length": 102.66
+        },
+        {
+          "region": "ORB",
+          "length": 242.51
+        }
+      ]
+    },
+    {
+      "pathway_id": 5,
+      "filename": "251034_010_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 699.73
+        },
+        {
+          "region": "ec",
+          "length": 46.55
+        },
+        {
+          "region": "AAA",
+          "length": 12.15
+        },
+        {
+          "region": "FS",
+          "length": 561.08
+        },
+        {
+          "region": "ACB",
+          "length": 1573.82
+        },
+        {
+          "region": "EP",
+          "length": 604.87
+        },
+        {
+          "region": "AON",
+          "length": 1051.33
+        },
+        {
+          "region": "ORB",
+          "length": 735.48
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 699.73
+        },
+        {
+          "region": "ec",
+          "length": 46.55
+        },
+        {
+          "region": "FS",
+          "length": 561.08
+        },
+        {
+          "region": "ACB",
+          "length": 1573.82
+        },
+        {
+          "region": "EP",
+          "length": 604.87
+        },
+        {
+          "region": "AON",
+          "length": 1051.33
+        },
+        {
+          "region": "ORB",
+          "length": 735.48
+        }
+      ]
+    },
+    {
+      "pathway_id": 6,
+      "filename": "251034_010_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 699.73
+        },
+        {
+          "region": "ec",
+          "length": 46.55
+        },
+        {
+          "region": "AAA",
+          "length": 12.15
+        },
+        {
+          "region": "FS",
+          "length": 561.08
+        },
+        {
+          "region": "ACB",
+          "length": 1573.82
+        },
+        {
+          "region": "EP",
+          "length": 604.87
+        },
+        {
+          "region": "AON",
+          "length": 1056.93
+        },
+        {
+          "region": "TT",
+          "length": 559.06
+        },
+        {
+          "region": "ORB",
+          "length": 1406.36
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 699.73
+        },
+        {
+          "region": "ec",
+          "length": 46.55
+        },
+        {
+          "region": "FS",
+          "length": 561.08
+        },
+        {
+          "region": "ACB",
+          "length": 1573.82
+        },
+        {
+          "region": "EP",
+          "length": 604.87
+        },
+        {
+          "region": "AON",
+          "length": 1056.93
+        },
+        {
+          "region": "TT",
+          "length": 559.06
+        },
+        {
+          "region": "ORB",
+          "length": 1406.36
+        }
+      ]
+    },
+    {
+      "pathway_id": 7,
+      "filename": "251034_010_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 699.73
+        },
+        {
+          "region": "ec",
+          "length": 46.55
+        },
+        {
+          "region": "AAA",
+          "length": 12.15
+        },
+        {
+          "region": "FS",
+          "length": 561.08
+        },
+        {
+          "region": "ACB",
+          "length": 1559.71
+        },
+        {
+          "region": "EP",
+          "length": 752.42
+        },
+        {
+          "region": "ec",
+          "length": 163.62
+        },
+        {
+          "region": "ORB",
+          "length": 68.34
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 699.73
+        },
+        {
+          "region": "ec",
+          "length": 46.55
+        },
+        {
+          "region": "FS",
+          "length": 561.08
+        },
+        {
+          "region": "ACB",
+          "length": 1559.71
+        },
+        {
+          "region": "EP",
+          "length": 752.42
+        },
+        {
+          "region": "ec",
+          "length": 163.62
+        },
+        {
+          "region": "ORB",
+          "length": 68.34
+        }
+      ]
+    },
+    {
+      "pathway_id": 8,
+      "filename": "251039_020_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 729.88
+        },
+        {
+          "region": "ec",
+          "length": 262.37
+        },
+        {
+          "region": "CEA",
+          "length": 22.56
+        },
+        {
+          "region": "ec",
+          "length": 27.95
+        },
+        {
+          "region": "CEA",
+          "length": 4.56
+        },
+        {
+          "region": "ec",
+          "length": 24.24
+        },
+        {
+          "region": "CEA",
+          "length": 8.88
+        },
+        {
+          "region": "ec",
+          "length": 205.7
+        },
+        {
+          "region": "BLA",
+          "length": 201.79
+        },
+        {
+          "region": "ec",
+          "length": 30
+        },
+        {
+          "region": "EP",
+          "length": 306.25
+        },
+        {
+          "region": "FS",
+          "length": 978.54
+        },
+        {
+          "region": "ACB",
+          "length": 1681.9
+        },
+        {
+          "region": "EP",
+          "length": 396.87
+        },
+        {
+          "region": "ACB",
+          "length": 437.89
+        },
+        {
+          "region": "ORB",
+          "length": 4.87
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 729.88
+        },
+        {
+          "region": "ec",
+          "length": 262.37
+        },
+        {
+          "region": "CEA",
+          "length": 22.56
+        },
+        {
+          "region": "ec",
+          "length": 257.89
+        },
+        {
+          "region": "BLA",
+          "length": 201.79
+        },
+        {
+          "region": "ec",
+          "length": 30
+        },
+        {
+          "region": "EP",
+          "length": 306.25
+        },
+        {
+          "region": "FS",
+          "length": 978.54
+        },
+        {
+          "region": "ACB",
+          "length": 1681.9
+        },
+        {
+          "region": "EP",
+          "length": 396.87
+        },
+        {
+          "region": "ACB",
+          "length": 437.89
+        },
+        {
+          "region": "ORB",
+          "length": 4.87
+        }
+      ]
+    },
+    {
+      "pathway_id": 9,
+      "filename": "251039_020_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ILA",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 729.88
+        },
+        {
+          "region": "ec",
+          "length": 262.37
+        },
+        {
+          "region": "CEA",
+          "length": 22.56
+        },
+        {
+          "region": "ec",
+          "length": 27.95
+        },
+        {
+          "region": "CEA",
+          "length": 4.56
+        },
+        {
+          "region": "ec",
+          "length": 24.24
+        },
+        {
+          "region": "CEA",
+          "length": 8.88
+        },
+        {
+          "region": "ec",
+          "length": 205.7
+        },
+        {
+          "region": "BLA",
+          "length": 201.79
+        },
+        {
+          "region": "ec",
+          "length": 30
+        },
+        {
+          "region": "EP",
+          "length": 306.25
+        },
+        {
+          "region": "FS",
+          "length": 978.54
+        },
+        {
+          "region": "ACB",
+          "length": 1681.9
+        },
+        {
+          "region": "EP",
+          "length": 179.59
+        },
+        {
+          "region": "aco",
+          "length": 374.46
+        },
+        {
+          "region": "ACB",
+          "length": 628.2
+        },
+        {
+          "region": "AON",
+          "length": 556
+        },
+        {
+          "region": "DP",
+          "length": 550.49
+        },
+        {
+          "region": "ILA",
+          "length": 1047.17
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 729.88
+        },
+        {
+          "region": "ec",
+          "length": 262.37
+        },
+        {
+          "region": "CEA",
+          "length": 22.56
+        },
+        {
+          "region": "ec",
+          "length": 257.89
+        },
+        {
+          "region": "BLA",
+          "length": 201.79
+        },
+        {
+          "region": "ec",
+          "length": 30
+        },
+        {
+          "region": "EP",
+          "length": 306.25
+        },
+        {
+          "region": "FS",
+          "length": 978.54
+        },
+        {
+          "region": "ACB",
+          "length": 1681.9
+        },
+        {
+          "region": "EP",
+          "length": 179.59
+        },
+        {
+          "region": "aco",
+          "length": 374.46
+        },
+        {
+          "region": "ACB",
+          "length": 628.2
+        },
+        {
+          "region": "AON",
+          "length": 556
+        },
+        {
+          "region": "DP",
+          "length": 550.49
+        },
+        {
+          "region": "ILA",
+          "length": 1047.17
+        }
+      ]
+    },
+    {
+      "pathway_id": 10,
+      "filename": "251039_021_Vglut1",
+      "pattern": 3,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 952.41
+        },
+        {
+          "region": "CEA",
+          "length": 1094.78
+        },
+        {
+          "region": "GPe",
+          "length": 413.51
+        },
+        {
+          "region": "int",
+          "length": 1094.47
+        },
+        {
+          "region": "CP",
+          "length": 1.85
+        },
+        {
+          "region": "int",
+          "length": 11.72
+        },
+        {
+          "region": "CP",
+          "length": 2.59
+        },
+        {
+          "region": "int",
+          "length": 9.71
+        },
+        {
+          "region": "CP",
+          "length": 6.25
+        },
+        {
+          "region": "int",
+          "length": 8.01
+        },
+        {
+          "region": "CP",
+          "length": 6.17
+        },
+        {
+          "region": "int",
+          "length": 10.22
+        },
+        {
+          "region": "CP",
+          "length": 2.64
+        },
+        {
+          "region": "int",
+          "length": 8.34
+        },
+        {
+          "region": "CP",
+          "length": 9.07
+        },
+        {
+          "region": "int",
+          "length": 7.14
+        },
+        {
+          "region": "CP",
+          "length": 7.09
+        },
+        {
+          "region": "int",
+          "length": 9.08
+        },
+        {
+          "region": "CP",
+          "length": 4.62
+        },
+        {
+          "region": "int",
+          "length": 9.89
+        },
+        {
+          "region": "CP",
+          "length": 128.67
+        },
+        {
+          "region": "int",
+          "length": 5.9
+        },
+        {
+          "region": "CP",
+          "length": 9.33
+        },
+        {
+          "region": "int",
+          "length": 9.27
+        },
+        {
+          "region": "CP",
+          "length": 2.93
+        },
+        {
+          "region": "int",
+          "length": 899.94
+        },
+        {
+          "region": "GPe",
+          "length": 3.66
+        },
+        {
+          "region": "int",
+          "length": 12.39
+        },
+        {
+          "region": "GPe",
+          "length": 816.86
+        },
+        {
+          "region": "int",
+          "length": 284.22
+        },
+        {
+          "region": "PAL",
+          "length": 236.49
+        },
+        {
+          "region": "BST",
+          "length": 313.8
+        },
+        {
+          "region": "aco",
+          "length": 583.96
+        },
+        {
+          "region": "ACB",
+          "length": 1438.79
+        },
+        {
+          "region": "aco",
+          "length": 269.33
+        },
+        {
+          "region": "ORB",
+          "length": 1764.05
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 952.41
+        },
+        {
+          "region": "CEA",
+          "length": 1094.78
+        },
+        {
+          "region": "GPe",
+          "length": 413.51
+        },
+        {
+          "region": "int",
+          "length": 1094.47
+        },
+        {
+          "region": "CP",
+          "length": 128.67
+        },
+        {
+          "region": "int",
+          "length": 899.94
+        },
+        {
+          "region": "GPe",
+          "length": 816.86
+        },
+        {
+          "region": "int",
+          "length": 284.22
+        },
+        {
+          "region": "PAL",
+          "length": 236.49
+        },
+        {
+          "region": "BST",
+          "length": 313.8
+        },
+        {
+          "region": "aco",
+          "length": 583.96
+        },
+        {
+          "region": "ACB",
+          "length": 1438.79
+        },
+        {
+          "region": "aco",
+          "length": 269.33
+        },
+        {
+          "region": "ORB",
+          "length": 1764.05
+        }
+      ]
+    },
+    {
+      "pathway_id": 11,
+      "filename": "251039_021_Vglut1",
+      "pattern": 3,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 952.41
+        },
+        {
+          "region": "CEA",
+          "length": 1094.78
+        },
+        {
+          "region": "GPe",
+          "length": 413.51
+        },
+        {
+          "region": "int",
+          "length": 1094.47
+        },
+        {
+          "region": "CP",
+          "length": 1.85
+        },
+        {
+          "region": "int",
+          "length": 11.72
+        },
+        {
+          "region": "CP",
+          "length": 2.59
+        },
+        {
+          "region": "int",
+          "length": 9.71
+        },
+        {
+          "region": "CP",
+          "length": 6.25
+        },
+        {
+          "region": "int",
+          "length": 8.01
+        },
+        {
+          "region": "CP",
+          "length": 6.17
+        },
+        {
+          "region": "int",
+          "length": 10.22
+        },
+        {
+          "region": "CP",
+          "length": 2.64
+        },
+        {
+          "region": "int",
+          "length": 8.34
+        },
+        {
+          "region": "CP",
+          "length": 9.07
+        },
+        {
+          "region": "int",
+          "length": 7.14
+        },
+        {
+          "region": "CP",
+          "length": 7.09
+        },
+        {
+          "region": "int",
+          "length": 9.08
+        },
+        {
+          "region": "CP",
+          "length": 4.62
+        },
+        {
+          "region": "int",
+          "length": 9.89
+        },
+        {
+          "region": "CP",
+          "length": 128.67
+        },
+        {
+          "region": "int",
+          "length": 5.9
+        },
+        {
+          "region": "CP",
+          "length": 9.33
+        },
+        {
+          "region": "int",
+          "length": 9.27
+        },
+        {
+          "region": "CP",
+          "length": 2.93
+        },
+        {
+          "region": "int",
+          "length": 899.94
+        },
+        {
+          "region": "GPe",
+          "length": 3.66
+        },
+        {
+          "region": "int",
+          "length": 12.39
+        },
+        {
+          "region": "GPe",
+          "length": 816.86
+        },
+        {
+          "region": "int",
+          "length": 284.22
+        },
+        {
+          "region": "PAL",
+          "length": 236.49
+        },
+        {
+          "region": "BST",
+          "length": 313.8
+        },
+        {
+          "region": "aco",
+          "length": 583.96
+        },
+        {
+          "region": "ACB",
+          "length": 1438.79
+        },
+        {
+          "region": "aco",
+          "length": 329.56
+        },
+        {
+          "region": "AON",
+          "length": 414.44
+        },
+        {
+          "region": "DP",
+          "length": 19.33
+        },
+        {
+          "region": "ORB",
+          "length": 2117.69
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 952.41
+        },
+        {
+          "region": "CEA",
+          "length": 1094.78
+        },
+        {
+          "region": "GPe",
+          "length": 413.51
+        },
+        {
+          "region": "int",
+          "length": 1094.47
+        },
+        {
+          "region": "CP",
+          "length": 128.67
+        },
+        {
+          "region": "int",
+          "length": 899.94
+        },
+        {
+          "region": "GPe",
+          "length": 816.86
+        },
+        {
+          "region": "int",
+          "length": 284.22
+        },
+        {
+          "region": "PAL",
+          "length": 236.49
+        },
+        {
+          "region": "BST",
+          "length": 313.8
+        },
+        {
+          "region": "aco",
+          "length": 583.96
+        },
+        {
+          "region": "ACB",
+          "length": 1438.79
+        },
+        {
+          "region": "aco",
+          "length": 329.56
+        },
+        {
+          "region": "AON",
+          "length": 414.44
+        },
+        {
+          "region": "DP",
+          "length": 19.33
+        },
+        {
+          "region": "ORB",
+          "length": 2117.69
+        }
+      ]
+    },
+    {
+      "pathway_id": 12,
+      "filename": "251039_029_Vglut1",
+      "pattern": 4,
+      "terminal_group": "ACA",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 988.51
+        },
+        {
+          "region": "ec",
+          "length": 38.58
+        },
+        {
+          "region": "CP",
+          "length": 1598.5
+        },
+        {
+          "region": "ccb",
+          "length": 12.08
+        },
+        {
+          "region": "CP",
+          "length": 12.99
+        },
+        {
+          "region": "ccb",
+          "length": 22.51
+        },
+        {
+          "region": "SS",
+          "length": 1981.73
+        },
+        {
+          "region": "scwm",
+          "length": 13.07
+        },
+        {
+          "region": "SS",
+          "length": 4.81
+        },
+        {
+          "region": "scwm",
+          "length": 4.9
+        },
+        {
+          "region": "SS",
+          "length": 6.98
+        },
+        {
+          "region": "scwm",
+          "length": 342.76
+        },
+        {
+          "region": "MO",
+          "length": 333.88
+        },
+        {
+          "region": "scwm",
+          "length": 2.22
+        },
+        {
+          "region": "MO",
+          "length": 30.65
+        },
+        {
+          "region": "scwm",
+          "length": 650.23
+        },
+        {
+          "region": "fa",
+          "length": 7.87
+        },
+        {
+          "region": "scwm",
+          "length": 2.16
+        },
+        {
+          "region": "fa",
+          "length": 532.68
+        },
+        {
+          "region": "ccg",
+          "length": 259.66
+        },
+        {
+          "region": "cing",
+          "length": 3.07
+        },
+        {
+          "region": "ccg",
+          "length": 8.43
+        },
+        {
+          "region": "cing",
+          "length": 4.61
+        },
+        {
+          "region": "ccg",
+          "length": 11.25
+        },
+        {
+          "region": "cing",
+          "length": 141.56
+        },
+        {
+          "region": "ACA",
+          "length": 681.21
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 988.51
+        },
+        {
+          "region": "ec",
+          "length": 38.58
+        },
+        {
+          "region": "CP",
+          "length": 1598.5
+        },
+        {
+          "region": "ccb",
+          "length": 22.51
+        },
+        {
+          "region": "SS",
+          "length": 1981.73
+        },
+        {
+          "region": "scwm",
+          "length": 342.76
+        },
+        {
+          "region": "MO",
+          "length": 364.53
+        },
+        {
+          "region": "scwm",
+          "length": 650.23
+        },
+        {
+          "region": "fa",
+          "length": 532.68
+        },
+        {
+          "region": "ccg",
+          "length": 259.66
+        },
+        {
+          "region": "cing",
+          "length": 141.56
+        },
+        {
+          "region": "ACA",
+          "length": 681.21
+        }
+      ]
+    },
+    {
+      "pathway_id": 13,
+      "filename": "251039_029_Vglut1",
+      "pattern": 1,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 464.54
+        },
+        {
+          "region": "IA",
+          "length": 309.33
+        },
+        {
+          "region": "CEA",
+          "length": 138.05
+        },
+        {
+          "region": "act",
+          "length": 199.92
+        },
+        {
+          "region": "FS",
+          "length": 25.25
+        },
+        {
+          "region": "CP",
+          "length": 2068.52
+        },
+        {
+          "region": "EP",
+          "length": 604.6
+        },
+        {
+          "region": "AI",
+          "length": 18.65
+        },
+        {
+          "region": "ORB",
+          "length": 298.05
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 464.54
+        },
+        {
+          "region": "IA",
+          "length": 309.33
+        },
+        {
+          "region": "CEA",
+          "length": 138.05
+        },
+        {
+          "region": "act",
+          "length": 199.92
+        },
+        {
+          "region": "FS",
+          "length": 25.25
+        },
+        {
+          "region": "CP",
+          "length": 2068.52
+        },
+        {
+          "region": "EP",
+          "length": 604.6
+        },
+        {
+          "region": "AI",
+          "length": 18.65
+        },
+        {
+          "region": "ORB",
+          "length": 298.05
+        }
+      ]
+    },
+    {
+      "pathway_id": 14,
+      "filename": "251039_029_Vglut1",
+      "pattern": 1,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 464.54
+        },
+        {
+          "region": "IA",
+          "length": 309.33
+        },
+        {
+          "region": "CEA",
+          "length": 138.05
+        },
+        {
+          "region": "act",
+          "length": 199.92
+        },
+        {
+          "region": "FS",
+          "length": 25.25
+        },
+        {
+          "region": "CP",
+          "length": 2068.52
+        },
+        {
+          "region": "EP",
+          "length": 608.84
+        },
+        {
+          "region": "PIR",
+          "length": 326.95
+        },
+        {
+          "region": "ORB",
+          "length": 113.23
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 464.54
+        },
+        {
+          "region": "IA",
+          "length": 309.33
+        },
+        {
+          "region": "CEA",
+          "length": 138.05
+        },
+        {
+          "region": "act",
+          "length": 199.92
+        },
+        {
+          "region": "FS",
+          "length": 25.25
+        },
+        {
+          "region": "CP",
+          "length": 2068.52
+        },
+        {
+          "region": "EP",
+          "length": 608.84
+        },
+        {
+          "region": "PIR",
+          "length": 326.95
+        },
+        {
+          "region": "ORB",
+          "length": 113.23
+        }
+      ]
+    },
+    {
+      "pathway_id": 15,
+      "filename": "251039_029_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 201.77
+        },
+        {
+          "region": "EP",
+          "length": 142.97
+        },
+        {
+          "region": "BLA",
+          "length": 3.17
+        },
+        {
+          "region": "EP",
+          "length": 15.37
+        },
+        {
+          "region": "BLA",
+          "length": 791.07
+        },
+        {
+          "region": "ec",
+          "length": 147.08
+        },
+        {
+          "region": "CEA",
+          "length": 58.45
+        },
+        {
+          "region": "ec",
+          "length": 150.67
+        },
+        {
+          "region": "BLA",
+          "length": 242.03
+        },
+        {
+          "region": "EP",
+          "length": 380.76
+        },
+        {
+          "region": "AAA",
+          "length": 324.28
+        },
+        {
+          "region": "MA",
+          "length": 52.15
+        },
+        {
+          "region": "FS",
+          "length": 338.04
+        },
+        {
+          "region": "ACB",
+          "length": 913.88
+        },
+        {
+          "region": "PIR",
+          "length": 536.68
+        },
+        {
+          "region": "EP",
+          "length": 701.6
+        },
+        {
+          "region": "ec",
+          "length": 57.1
+        },
+        {
+          "region": "ORB",
+          "length": 1682.71
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 201.77
+        },
+        {
+          "region": "EP",
+          "length": 158.34
+        },
+        {
+          "region": "BLA",
+          "length": 791.07
+        },
+        {
+          "region": "ec",
+          "length": 147.08
+        },
+        {
+          "region": "CEA",
+          "length": 58.45
+        },
+        {
+          "region": "ec",
+          "length": 150.67
+        },
+        {
+          "region": "BLA",
+          "length": 242.03
+        },
+        {
+          "region": "EP",
+          "length": 380.76
+        },
+        {
+          "region": "AAA",
+          "length": 324.28
+        },
+        {
+          "region": "MA",
+          "length": 52.15
+        },
+        {
+          "region": "FS",
+          "length": 338.04
+        },
+        {
+          "region": "ACB",
+          "length": 913.88
+        },
+        {
+          "region": "PIR",
+          "length": 536.68
+        },
+        {
+          "region": "EP",
+          "length": 701.6
+        },
+        {
+          "region": "ec",
+          "length": 57.1
+        },
+        {
+          "region": "ORB",
+          "length": 1682.71
+        }
+      ]
+    },
+    {
+      "pathway_id": 16,
+      "filename": "251039_029_Vglut1",
+      "pattern": 2,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "BLA",
+          "length": 201.77
+        },
+        {
+          "region": "EP",
+          "length": 142.97
+        },
+        {
+          "region": "BLA",
+          "length": 3.17
+        },
+        {
+          "region": "EP",
+          "length": 15.37
+        },
+        {
+          "region": "BLA",
+          "length": 791.07
+        },
+        {
+          "region": "ec",
+          "length": 147.08
+        },
+        {
+          "region": "CEA",
+          "length": 58.45
+        },
+        {
+          "region": "ec",
+          "length": 150.67
+        },
+        {
+          "region": "BLA",
+          "length": 242.03
+        },
+        {
+          "region": "EP",
+          "length": 380.76
+        },
+        {
+          "region": "AAA",
+          "length": 324.28
+        },
+        {
+          "region": "MA",
+          "length": 52.15
+        },
+        {
+          "region": "FS",
+          "length": 338.04
+        },
+        {
+          "region": "ACB",
+          "length": 913.88
+        },
+        {
+          "region": "PIR",
+          "length": 536.68
+        },
+        {
+          "region": "EP",
+          "length": 701.6
+        },
+        {
+          "region": "ec",
+          "length": 363.59
+        },
+        {
+          "region": "CLA",
+          "length": 139.81
+        },
+        {
+          "region": "ORB",
+          "length": 1307.93
+        }
+      ],
+      "filtered": [
+        {
+          "region": "BLA",
+          "length": 201.77
+        },
+        {
+          "region": "EP",
+          "length": 158.34
+        },
+        {
+          "region": "BLA",
+          "length": 791.07
+        },
+        {
+          "region": "ec",
+          "length": 147.08
+        },
+        {
+          "region": "CEA",
+          "length": 58.45
+        },
+        {
+          "region": "ec",
+          "length": 150.67
+        },
+        {
+          "region": "BLA",
+          "length": 242.03
+        },
+        {
+          "region": "EP",
+          "length": 380.76
+        },
+        {
+          "region": "AAA",
+          "length": 324.28
+        },
+        {
+          "region": "MA",
+          "length": 52.15
+        },
+        {
+          "region": "FS",
+          "length": 338.04
+        },
+        {
+          "region": "ACB",
+          "length": 913.88
+        },
+        {
+          "region": "PIR",
+          "length": 536.68
+        },
+        {
+          "region": "EP",
+          "length": 701.6
+        },
+        {
+          "region": "ec",
+          "length": 363.59
+        },
+        {
+          "region": "CLA",
+          "length": 139.81
+        },
+        {
+          "region": "ORB",
+          "length": 1307.93
+        }
+      ]
+    },
+    {
+      "pathway_id": 17,
+      "filename": "251039_033_Vglut1",
+      "pattern": 1,
+      "terminal_group": "ORB",
+      "original": [
+        {
+          "region": "ec",
+          "length": 10.21
+        },
+        {
+          "region": "LA",
+          "length": 592.46
+        },
+        {
+          "region": "ec",
+          "length": 680.65
+        },
+        {
+          "region": "CP",
+          "length": 239.11
+        },
+        {
+          "region": "ec",
+          "length": 13.19
+        },
+        {
+          "region": "CP",
+          "length": 1.71
+        },
+        {
+          "region": "ec",
+          "length": 15.02
+        },
+        {
+          "region": "EP",
+          "length": 1225.66
+        },
+        {
+          "region": "AI",
+          "length": 920.58
+        },
+        {
+          "region": "EP",
+          "length": 373.27
+        },
+        {
+          "region": "AON",
+          "length": 205.01
+        },
+        {
+          "region": "DP",
+          "length": 312.54
+        },
+        {
+          "region": "ORB",
+          "length": 121.11
+        }
+      ],
+      "filtered": [
+        {
+          "region": "LA",
+          "length": 592.46
+        },
+        {
+          "region": "ec",
+          "length": 680.65
+        },
+        {
+          "region": "CP",
+          "length": 239.11
+        },
+        {
+          "region": "ec",
+          "length": 15.02
+        },
+        {
+          "region": "EP",
+          "length": 1225.66
+        },
+        {
+          "region": "AI",
+          "length": 920.58
+        },
+        {
+          "region": "EP",
+          "length": 373.27
+        },
+        {
+          "region": "AON",
+          "length": 205.01
+        },
+        {
+          "region": "DP",
+          "length": 312.54
+        },
+        {
+          "region": "ORB",
+          "length": 121.11
+        }
+      ]
+    }
+  ]
+}

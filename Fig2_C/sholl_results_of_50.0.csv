@@ -1,0 +1,4 @@
+,group1,group2,meandiff,p-adj,lower,upper,reject
+0,Crh,Sst,-7.1556,0.011,-12.8431,-1.468,True
+1,Crh,Vglut1,4.8,0.1774,-1.649,11.249,False
+2,Sst,Vglut1,11.9556,0.0,6.268,17.6431,True
